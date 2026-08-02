@@ -6,7 +6,7 @@ AI 应用研究实验室，聚焦 RAG、Agent 与实用型 AI 应用的原理、
 
 | Repository | 方向 | 状态 |
 | --- | --- | --- |
-| [rag-core-guide](https://github.com/ai-agent-lab-cn/rag-core-guide) | 基础 RAG 原理与最小实现 | 建设中 |
+| [rag-core-guide](https://github.com/ai-agent-lab-cn/rag-core-guide) | 基础 RAG 原理与最小实现 | 已完成 |
 | [rag-enterprise](https://github.com/ai-agent-lab-cn/rag-enterprise) | 企业级 RAG 架构与工程实践 | 建设中 |
 | [ai-job-assistant](https://github.com/ai-agent-lab-cn/ai-job-assistant) | 简历优化、职位匹配与求职流程辅助 | 建设中 |
 
@@ -20,4 +20,3 @@ AI 应用研究实验室，聚焦 RAG、Agent 与实用型 AI 应用的原理、
 ## 组织方式
 
 每个 AI 应用或研究主题使用独立 Repository，保持代码、文档、Issue 和版本演进彼此清晰。
-
