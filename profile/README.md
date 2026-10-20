@@ -11,6 +11,7 @@ AI 应用研究实验室，聚焦 RAG、Agent 与实用型 AI 应用的原理、
 | [rag-enterprise](https://github.com/ai-agent-lab-cn/rag-enterprise) | 企业级 RAG 架构与工程实践 | 初版 已完成 |
 | [zr-langChain](https://github.com/ai-agent-lab-cn/zr-langChain) | LangChain 学习与实战系列 | 建设中 |
 | [ai-job-assistant](https://github.com/ai-agent-lab-cn/ai-job-assistant) | 简历优化、职位匹配与求职流程辅助 | 未开始 |
+| [real-time](https://github.com/ai-agent-lab-cn/realTime.git) | 本地大模型翻译、面向英文场景的实时中文字幕工具 | 已完成 |
 
 ## 研究方向
 
@@ -20,7 +21,7 @@ AI 应用研究实验室，聚焦 RAG、Agent 与实用型 AI 应用的原理、
 - AI Agent 工作流、工具调用与多智能体协作
 - 面向真实场景的 AI 产品设计与工程实现
 - 将整个 LangChain 学习与实战系列整理为一个独立的 Git 仓库：zr-lang-chain。
-采用 一个章节 = 一个独立目录 + 一个 Python 代码文件 + 一个 Markdown 技术文档 的组织方式。
+- 本地大模型翻译 llama.cpp + Qwen3-4B-Instruct-2507 Q4_K_M
 ## 组织方式
 
 每个 AI 应用或研究主题使用独立 Repository，保持代码、文档、Issue 和版本演进彼此清晰。
