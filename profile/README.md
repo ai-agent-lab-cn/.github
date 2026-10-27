@@ -11,6 +11,7 @@ AI 应用研究实验室，聚焦 **RAG、MCP、AI Agent 与本地大模型应�
 | [rag-enterprise](https://github.com/ai-agent-lab-cn/rag-enterprise) | 企业级 RAG 架构与工程实践 | 已完成 |
 | [zr-langChain](https://github.com/ai-agent-lab-cn/zr-langChain) | LangChain、LangGraph、LangSmith 学习与实战系列 | 已完成 |
 | [realTime](https://github.com/ai-agent-lab-cn/realTime) | 基于 llama.cpp 与 Qwen3-4B-Instruct-2507（Q4_K_M）的本地大模型翻译及实时中文字幕工具 | 已完成 |
+| [ai-manju](https://github.com/ai-agent-lab-cn/ai-manju) | AI 漫剧制作工具 | 计划中 |
 
 ## 研究方向
 
